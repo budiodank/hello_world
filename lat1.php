@@ -1,5 +1,5 @@
 <?php
-  $bil = 10
+  $bil = 10;
   
   if ($bil == 10) {
   echo "Angka ".$bil;
